@@ -1,4 +1,6 @@
 # Predictions-From-Descriptions
+
+![](https://img.shields.io/github/repo-size/Yukti-09/Predictions-From-Descriptions)  ![](https://img.shields.io/github/last-commit/Yukti-09/Predictions-From-Descriptions)<br>
 Prediction of the primary product category from its description.<br>
 A multi-class classification problem.
 
@@ -24,3 +26,8 @@ The accuracy obtained for them is 99.27% and 99.84% respectively. <br>
 ### Greedy for more accuracy? 
 Use LSTMs and GRUs. <br>
 Make use of more features.
+
+## Clone this repository
+```
+$ git clone "https://github.com/Yukti-09/Predictions-From-Descriptions.git"
+```
